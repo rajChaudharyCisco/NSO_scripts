@@ -1,1 +1,1 @@
-13 22 * * * usr/bin/sh /Users/rajchaudhary/Desktop/NSO/Python_Services_examples/check_sync.sh >> /Users/rajchaudhary/Desktop/NSO/Python_Services_examples/check_sync_output.log 2>&1
+13 22 * * * usr/bin/sh /<complete_path_to_dir>/check_sync.sh >> /<complete_path_to_dir>/check_sync_output.log 2>&1
